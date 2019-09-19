@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/LeeYongWon/graghql.git",
   "author": "LeeYongWon",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
