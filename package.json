@@ -1,0 +1,9 @@
+{
+  "name": "graghql",
+  "version": "1.0.0",
+  "description": "Movie API Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/LeeYongWon/graghql.git",
+  "author": "LeeYongWon",
+  "license": "MIT"
+}
